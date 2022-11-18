@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=WELCOME!&animation=twinkling&fontColor=739CA8&desc=hyeon317.GITHUB&descAlign=70&descAlignY=65&fontSize=90)
+
+![HYEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon317&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon317&layout=compact)
+
+
+
 <!--
 **hyeon317/hyeon317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
